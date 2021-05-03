@@ -116,10 +116,10 @@ WSGI_APPLICATION = 'RestForFlutter.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'RestForFlutter',
-        'USER': 'postgres',
-        'PASSWORD': '4466567693441',
-        'HOST': '127.0.0.1',
+        'NAME': 'flutter-backend',
+        'USER': 'xmpfpmdp',
+        'PASSWORD': 'XVyXpV0x5ipjMjxDOInCHSvL1bhPv24y ',
+        'HOST': 'queenie.db.elephantsql.com',
         'PORT': '5432',
 
         'applications': [
